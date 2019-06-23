@@ -17,6 +17,6 @@ function sayHiToGrandma (string) {
   else if (logShout)
   return ("YES INDEED!")
   
-  else if ("I love you, Grandma.")
+  else ("I love you, Grandma.")
   return ("I love you, too.")
 }
